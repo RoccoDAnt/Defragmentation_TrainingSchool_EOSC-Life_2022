@@ -9,6 +9,9 @@ A training school for the new generation of bioimage analysts. Topics: workflow-
 ### "Defragmentation: bringing BioImage Analysts to the cloud!”
 #### Registration form:
 https://docs.google.com/forms/d/e/1FAIpQLSeyiFfdfRYAcQQB73dGy7WuclvkB_RiKxHncAd_HGwN_geFgA/viewform
+
+#### Registration deadline: 14 August 2022
+
 #### Programme:
 
 |Date | Day | Topics | Sessions|
@@ -36,6 +39,8 @@ Participation fee: Euro 100 (to be paid after admission).
 
 Registration form:
 https://docs.google.com/forms/d/e/1FAIpQLSeyiFfdfRYAcQQB73dGy7WuclvkB_RiKxHncAd_HGwN_geFgA/viewform
+
+Registration deadline: 14 August 2022
 
 Contacts: rocco.dantuono@crick.ac.uk  
 Please use the following subject: Defragmentation TS
