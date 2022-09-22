@@ -46,4 +46,5 @@ Contacts: rocco.dantuono@crick.ac.uk
 Please use the following subject: Defragmentation TS
 
 # Training School preparation #
-### Day 1: <br> <p>a) before the TS starts the trainees are pleased asked to register an account for https://usegalaxy.eu/login and optionally a GitHub account: https://github.com/ </p> 
+### Day 1: <br> <p>a) before the TS starts the trainees are pleased asked to register an account for https://usegalaxy.eu/login and optionally a GitHub account: https://github.com/ </p>
+### Day 2: <br> <p>a) before Day 2 the trainees need to have a working Google account to run Colab notebooks: https://colab.research.google.com/notebook . The Google account should have enough free space (~ several GB) on it.</p> <p>b) More instructions will be supplied.</p>
