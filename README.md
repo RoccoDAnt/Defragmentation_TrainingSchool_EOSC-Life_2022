@@ -47,4 +47,4 @@ Please use the following subject: Defragmentation TS
 
 # Training School preparation #
 ### Day 1: <br> <p>a) before the TS starts the trainees are pleased asked to register an account for https://usegalaxy.eu/login and optionally a GitHub account: https://github.com/ </p>
-### Day 2: <br> <p>a) before Day 2 the trainees need to have a working Google account to run Colab notebooks: https://colab.research.google.com/notebook . The Google account should have enough free space (~ several GB) on it.</p> <p>b) More instructions will be supplied.</p>
+### Day 2: <br> <p>a) before Day 2 the trainees need to have a working Google account (not a linked account that you manage with Google) to run Colab notebooks: https://colab.research.google.com/notebook . The Google account should have enough free space (~ several GB) on it.</p> <p>b) follow instructions from Dr. Christian Tischer to access BAND and run the script that installs the needed software on the remote desktop.</p><p>c) read the message from Dr. David Rousseau about slides and introduction to Google Colab for those who are not familiar yet with it.</p>
