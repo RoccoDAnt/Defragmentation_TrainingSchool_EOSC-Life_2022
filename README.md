@@ -54,7 +54,7 @@ Please use the following subject: Defragmentation TS
 # Training School material #
 #### Day 1:
 <ul>
-<li> “BioImage: correlated multimodal imaging in life sciences and the problem of big data management for core facilities” <br><b>Julia Fernandez-Rodriguez</b></li><li><a href="https://www.dropbox.com/s/5abw3cvxrhpobg4/20220923_DefragmentationTS.pdf?dl=0">“Introduction to what is bioimage analysis”</a> <br><b>Kota Miura</b></li><li>“Image Data Services at Euro-BioImaging: Community efforts towards FAIR Image Data and Analysis Services” <br><b>Aastha Mathur</b></li> <li><a href="https://bit.ly/defragjupyter">“Jupyter for interactive cloud computing”</a><br><b>Guillaume Witz</b></li>
+<li> “BioImage: correlated multimodal imaging in life sciences and the problem of big data management for core facilities” <br><b>Julia Fernandez-Rodriguez</b></li><li><a href="https://www.dropbox.com/s/5abw3cvxrhpobg4/20220923_DefragmentationTS.pdf?dl=0">“Introduction to what is bioimage analysis”</a> <br><b>Kota Miura</b></li><li><a href="https://docs.google.com/presentation/d/1henPIDTpHT3bc1Y26AltItAHJ2C5xCOl/edit#slide=id.p1">“Image Data Services at Euro-BioImaging: Community efforts towards FAIR Image Data and Analysis Services”</a> <br><b>Aastha Mathur</b></li> <li><a href="https://bit.ly/defragjupyter">“Jupyter for interactive cloud computing”</a><br><b>Guillaume Witz</b></li>
 </ul>
 
 #### Day 2:
@@ -70,7 +70,7 @@ computing for distributed workflows at scale</a><br><b>Beth Cimini and Anna Klem
 
 #### Day 4:
 <ul>
-<li><a href="https://f1000research.com/slides/11-1171">"Parallelization and heterogeneous computing: from pure CPU to GPU-accelerated image processing”</a> <br><b>Robert Haase</b></p><p>“Introduction to Galaxy workflow environment” <br><b>Beatriz Serrano-Solano and Björn Grüning</b></p>
+<li><a href="https://f1000research.com/slides/11-1171">"Parallelization and heterogeneous computing: from pure CPU to GPU-accelerated image processing”</a> <br><b>Robert Haase</b></li><li>“Introduction to Galaxy workflow environment” <br><b>Beatriz Serrano-Solano and Björn Grüning</b></li>
 </ul>
 
 #### Day 5:
