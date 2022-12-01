@@ -75,7 +75,7 @@ computing for distributed workflows at scale</a><br><b>Beth Cimini and Anna Klem
 
 #### Day 5:
 <ul>
-<li><a href="https://www.fi.muni.cz/~kozubek/NEUBIAS/">“Metrics and Benchmarking”</a><br><b>Michal Kozubek</b></li><li><a href="https://tinyurl.com/2p9c89v9">“BIAFLOWS: A BioImage Analysis workflows benchmarking platform”</a><br><a href="https://github.com/RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022/Slides/Adding_a_workflow_to_BIAFLOWS.pdf">"Adding a workflow to BIAFLOWS"</a> <br> <a href="https://biaflows-sandbox.neubias.org">BIAflows</a> <br><b>Sébastien Tosi, Volker Baecker, and Benjamin Pavie</b></p>
+<li><a href="https://www.fi.muni.cz/~kozubek/NEUBIAS/">“Metrics and Benchmarking”</a><br><b>Michal Kozubek</b></li><li><a href="https://tinyurl.com/2p9c89v9">“BIAFLOWS: A BioImage Analysis workflows benchmarking platform”</a><br><a href="https://github.com/RoccoDAnt/Defragmentation_TrainingSchool_EOSC-Life_2022/blob/main/Slides/Adding_a_workflow_to_BIAFLOWS.pdf>"Adding a workflow to BIAFLOWS"</a> <br> <a href="https://biaflows-sandbox.neubias.org">BIAflows</a> <br><b>Sébastien Tosi, Volker Baecker, and Benjamin Pavie</b></p>
 
 
 
